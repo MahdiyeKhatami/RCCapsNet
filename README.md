@@ -8,6 +8,8 @@ Deep Fashion-inshop Dataset: https://drive.google.com/drive/folders/0B7EVK8r0v71
 
 contacts mahdiye_khatami@semnan.ac.ir or m.khatami95@gmail.com
 
+![myimage-alt-tag](https://i.postimg.cc/FRtGbDyH/2022-07-09-15-58-38-Window.png)
+
 
 ## New changes to the original code
 
