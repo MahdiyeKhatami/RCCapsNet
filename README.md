@@ -1,5 +1,6 @@
 # RCCapsNet
 Fashion Image Retrieval With Capsule Networks
+
 An Unofficial Notebook for https://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Kinli_Fashion_Image_Retrieval_with_Capsule_Networks_ICCVW_2019_paper.pdf
 
 based on Official code https://github.com/birdortyedi/image-retrieval-with-capsules
